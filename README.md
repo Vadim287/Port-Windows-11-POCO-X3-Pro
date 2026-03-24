@@ -29,4 +29,4 @@
 
 ## Where to find us
 
-You can find us at [our Telegram group](https://t.me/woahelperchat) if you need any assistance!
+You can find us at [our Telegram group](https://t.me/project_aloha_issues) if you need any assistance!

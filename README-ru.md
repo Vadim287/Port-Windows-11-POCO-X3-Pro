@@ -29,4 +29,4 @@
 
 ## Где нас найти
 
-Вы можете найти нас в [нашем Telegram чате](https://t.me/woahelperchat) если вам нужна помощь!
+Вы можете найти нас в [нашем Telegram чате](https://t.me/project_aloha_issues) если вам нужна помощь!
